@@ -1,0 +1,19 @@
+h3 {
+   height: solid;
+}
+
+body{
+   background-color:aquamarine;
+}
+
+#easy {
+   background-color: green;
+}
+
+#good{
+   background-color: yellow;
+}
+
+#hard{
+   background-color: pink;
+}
