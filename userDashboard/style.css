@@ -1,0 +1,33 @@
+body{
+   background-color:blueviolet;
+   color:white;
+   height: 20px solid;
+   width: 1000px;
+}
+
+h2{
+   color:greenyellow;
+   border-bottom: solid white;
+   padding-bottom: 10px;
+}
+
+p{
+   font-size: 20px;
+}
+
+#linha{
+   border-bottom: solid white;
+   padding-bottom: 10px;
+}
+
+.eventos{
+   background-color: white;
+   color: black;
+   font-size: 18px;
+   padding: 5px 5px 5px 15px;
+   border-radius: 10px;
+}
+
+a{
+   color:white;
+}
