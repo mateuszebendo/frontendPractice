@@ -1,6 +1,8 @@
 body{
    background-color: black;
    text-align: center;
+   font-family: "Verdana", sans-serif;
+   color: white;
 }
 
 img{
@@ -10,12 +12,7 @@ img{
 }
 
 h1{
-   color:white;
    height: solid;
-}
-
-p{
-   color:white;
 }
 
 a{
@@ -24,7 +21,6 @@ a{
 
 #sla{
    margin: 15px;
-   color: white;
    background-color: grey;
    padding: 15px;
 }
