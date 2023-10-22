@@ -1,0 +1,19 @@
+#gato{
+   height: 150px;
+   width: 150px;
+   border-radius: 75px;
+}
+
+h1{
+   color:blue;
+}
+
+h2{
+   background-color:aqua;
+}
+
+button{
+   border: solid;
+   background-color:aquamarine;
+   border-radius: 25px;
+}
