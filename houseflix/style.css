@@ -1,0 +1,30 @@
+body{
+   background-color: black;
+   text-align: center;
+}
+
+img{
+   margin: 0 0 20px 0;
+   height: 200px;
+   width: 300px;
+}
+
+h1{
+   color:white;
+   height: solid;
+}
+
+p{
+   color:white;
+}
+
+a{
+   color:red;
+}
+
+#sla{
+   margin: 15px;
+   color: white;
+   background-color: grey;
+   padding: 15px;
+}
