@@ -34,8 +34,8 @@ a{
 }
 
 #surfista{
-    width: 600px;
-    height: 300px;
+    width: 95%;
+    height: 400px;
 }
 
 #up{
@@ -43,10 +43,11 @@ a{
     z-index: 1;
     position: absolute;
     top: 20%;
-    left: 15%;
-    width: 100px;
-    height: 15px;
+    left: 10%;
+    width: 20%;
+    height: 20%;
     text-align: center;
+    font-size: 25px;;
 }
 
 #serviços{
@@ -59,3 +60,66 @@ a{
     text-align: center;
     padding-left: 10px;
 }
+
+.blue{
+    text-align: left;
+    display: inline-block;
+    background-color: #00BFFF;
+    width: 20%;
+    margin: 1%;
+    padding: 3%;
+    color: white;
+    border-radius: 10%;
+}
+
+#noblue{
+    padding: 1.5% 3% 3% 3%;
+}
+
+button{
+    background-color: #87CEEB;
+    width: 80%;
+    height: 20%;
+    color: white;
+    border: solid;
+    border-radius: 8%;
+}
+
+#predio{
+    width: 30%;
+    float: left;
+    margin-right: 2%;
+}
+
+#conquiste{
+    text-align: left;
+    margin-right: 15%;
+    display: inline-block;
+}
+
+#saiba{
+    color:#00BFFF;
+}
+
+#lorem{
+    width: 60%;
+}
+
+#depoimento{
+    clear: left;
+    display: inline-block;
+    position: absolute;
+    right: 0%;
+    width: 40%;
+    margin-left: 15%;
+    padding: 0 8% 0 8%;
+}
+
+#direitos{
+    color: white;
+    display: inline-block;
+    margin-top: 0;
+    position: absolute;
+    left: 10px;
+}
+
