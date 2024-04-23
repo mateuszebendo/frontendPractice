@@ -1,5 +1,5 @@
-let nome = "The Kill";
-let musica = true; 
-let duracao = 2.5; 
+let nome; 
 
-docu
+nome = window.prompt("Digite seu nome:");
+
+document.getElementById("titulo").textContent = `Bem-vindo ${nome}`;
