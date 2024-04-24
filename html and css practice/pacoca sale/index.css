@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-image: url(imagens/windowsxp.jpg);
+    background-size: cover;
+}
+
+img:hover {
+    transform: scale(1.2);
+}
+
+main {
+    position: absolute; 
+    top: 10%; 
+    left: 33%;
+}
+
+h1{
+    color:rgb(112, 108, 108);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-size: 24px;
+    color: white;
+}
+
+#xp {
+    color: orange;
+    font-size: 30px;
+    position: absolute;
+    bottom: 94%;
+
+}
+
+#titulo{
+    font-size: 30px;
+}
+
+#pacocas {
+    font-size: 50px;
+    color: black;
+}

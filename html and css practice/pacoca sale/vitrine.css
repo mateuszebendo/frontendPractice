@@ -1,0 +1,55 @@
+main {
+    position: absolute; 
+    top: 30%; 
+    left: 21%;
+}
+
+.figura:hover {
+    transform: scale(1.2);
+}
+
+a:hover{
+    transform: scale(1.2);
+}
+
+body {
+    text-align: center;
+    background-image:url(imagens/backgroundxp.jpg);
+    background-size: cover;
+}
+
+figure {
+    text-align: center;
+    display: inline-block;
+    background-color: silver;
+    margin-right: 0;
+    width: 300px;
+    height: 300px;
+    border: solid;
+}
+
+img {
+    position: relative; 
+    top: 12%; 
+    width: 150px;
+    height: 150px;
+    border: solid blue;
+    margin: 0;
+}
+
+p {
+    position: relative; 
+    top: 20%; 
+    margin: 0;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+a {
+    color: white;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+

@@ -1,0 +1,29 @@
+body {
+    background-image: url(imagens/backgroundxp.jpg);
+    background-size: cover;
+}
+
+img {
+    position: absolute;
+    top: 20%;
+    left: 36%;
+    width: 550px;
+}
+
+main {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    position: absolute;
+    top: 25%;
+    left: 40.5%;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+h4 {
+    color: orange;
+}

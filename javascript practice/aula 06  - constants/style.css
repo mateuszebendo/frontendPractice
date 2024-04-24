@@ -1,0 +1,17 @@
+#entradaDados {
+    border: solid rgb(47, 46, 46);
+    background-color: grey;
+    max-width: 30%;
+    padding: 20px;
+}
+
+#resultado {
+    font-size: 20px;
+}
+
+#circulo {
+    background-color: blue;
+    width: 100px;
+    height: 100px; 
+    border-radius: 50%;
+}
