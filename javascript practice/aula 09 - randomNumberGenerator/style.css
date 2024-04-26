@@ -1,0 +1,16 @@
+body{
+    font-family: Verdana;
+    text-align: center; 
+    background-image: url(imagens/tableImage.jpg);
+    background-size: cover;
+}
+
+#meuBotao {
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+
+#meuLabel {
+    font-size: 3em;
+}

@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 5%; 
+    width: 400px;           
+    height: 400px;
+    box-shadow: 2px 2px 2px black;
+    background-color: rgb(186, 243, 249);
+}
+
+#mySubmit {
+    font-size: 1em;
+}
